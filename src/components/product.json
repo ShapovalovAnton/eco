@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Масло",
+        "price": 90,
+        "photo": "/img/1.svg"
+    },
+    {
+        "id": 2,
+        "name": "Сир",
+        "price": 120,
+        "photo": "/img/2.svg"
+    },
+    {
+        "id": 3,
+        "name": "Молоко",
+        "price": 40,
+        "photo": "/img/3.svg"
+    },
+    {
+        "id": 4,
+        "name": "Помідори",
+        "price": 50,
+        "photo": "/img/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Курятина",
+        "price": 150,
+        "photo": "/img/5.svg"
+    },
+    {
+        "id": 6,
+        "name": "Морква",
+        "price": 30,
+        "photo": "/img/6.svg"
+    },
+    {
+        "id": 7,
+        "name": "Капуста",
+        "price": 25,
+        "photo": "/img/7.svg"
+    },
+    {
+        "id": 8,
+        "name": "Борошно",
+        "price": 35,
+        "photo": "/img/8.svg"
+    }
+]

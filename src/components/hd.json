@@ -1,0 +1,12 @@
+[
+    {
+        "array": ["Eco Life"]
+      },
+    {
+      "array": ["Про нас", "Товари", "Наші контакти"]
+    },
+    
+    {
+      "array": ["#about", "#products", "#contacts"]
+    }
+  ]

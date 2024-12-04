@@ -1,0 +1,80 @@
+@import url(base.css);
+
+
+body{
+  
+  background-color: white;
+  color: black;
+  font-family: var(--font-family-h);
+  margin: auto;
+}
+
+.p_content{
+  font-size: 2dvw;
+  font-family: var(--font-family-text);
+}
+
+.h2_content{
+  font-size: 3dvw;
+  font-weight: bold;
+  position: relative;
+  left:-3dvw;
+
+}
+
+section{
+  align-items: center;
+}
+
+.prod_section{
+  width: 85%;
+  gap:20px;
+}
+
+.prod_photo{
+  width:20dvw;
+  height: 25dvw;
+}
+
+.prod_point{
+  width: auto;
+  background-color: #D1FFC9;
+  border-radius: 4dvw;
+  align-items: center;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  transition: all 0.3s;
+}
+
+.about_section{
+  width: 85%;
+}
+
+.products{
+  gap:4dvw;
+}
+
+.h1_prod{
+  font-size: 2dvw;
+}
+
+.prod_name{
+  font-size: 2dvw;
+  font-family: var(--font-family-text);
+}
+
+.prod_price{
+  font-size: 2dvw;
+  font-family: var(--font-family-text);
+}
+
+.prod_point:hover{
+  background-color: var(--color-green);
+}
+
+.about_section, .prod_section{
+    margin-left: 3%;
+    
+}

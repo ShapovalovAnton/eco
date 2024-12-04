@@ -1,0 +1,19 @@
+@import url(base.css);
+.sidebar{
+flex: 1;
+width: 35%;
+}
+
+.p_sidebar{
+    font-size: 2dvw;
+    font-family: var(--font-family-text);
+}
+
+.h2_sidebar{
+    font-size: 3dvw;
+}
+
+.sidebar_img{
+    width:30dvw;
+    margin-top: 18dvw;
+}
